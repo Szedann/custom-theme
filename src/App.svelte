@@ -42,5 +42,6 @@
   }
   .hostname {
     text-align: center;
+    font-family: monospace;
   }
 </style>
